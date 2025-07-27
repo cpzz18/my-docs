@@ -15,25 +15,61 @@ const sidebars = {
         },
       ],
     },
-    {
+    { 
       type: 'category',
       label: 'Basic PHP',
       items: [
-        'basic-php/intro',       // Pengenalan PHP di atas
-        'basic-php/helloworld',  // Hello World di bawahnya
-        'basic-php/variable',    // Variabel di bawahnya
-        'basic-php/string',   // Tipe Data di bawahnya
-        'basic-php/data-null',
-        'basic-php/tipe-datanumber',
-        'basic-php/boolean',
-        'basic-php/constant',
-        'basic-php/comparison',
-        'basic-php/assignment',
-        'basic-php/arithmetic',
-        'basic-php/logical',
-        'basic-php/increment-decrement',
-        'basic-php/array-operator',
-
+        {
+          type: 'category',
+          label: 'Dasar',
+          items: [
+            'basic-php/intro',
+            'basic-php/helloworld',
+            'basic-php/variable',
+            'basic-php/constant',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Tipe Data',
+          items: [
+            'basic-php/string',
+            'basic-php/data-null',
+            'basic-php/tipe-datanumber',
+            'basic-php/boolean',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Operator',
+          items: [
+            'basic-php/comparison',
+            'basic-php/assignment',
+            'basic-php/arithmetic',
+            'basic-php/logical',
+            'basic-php/increment-decrement',
+            'basic-php/array-operator',
+            'basic-php/string-manipulasi',
+            'basic-php/ternary',
+            'basic-php/nullcoalescing',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Percabangan',
+          items: [
+            'basic-php/if',
+            'basic-php/switch',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Perulangan',
+          items: [
+            'basic-php/for',
+            'basic-php/for',
+          ],
+        },
       ],
     },
   ],
