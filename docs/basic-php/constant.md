@@ -3,7 +3,7 @@ id: constant
 title: Konstanta di PHP
 ---
 
-# 🧾 Konstanta di PHP
+#  Konstanta di PHP
 
 **Konstanta** adalah nama yang menyimpan nilai tetap dan **tidak bisa diubah** setelah didefinisikan.  
 Berbeda dengan variabel, konstanta **tidak menggunakan `$` di depannya**.

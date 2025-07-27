@@ -3,7 +3,7 @@ id: data-null
 title: Null di PHP
 ---
 
-# 🧾 Null di PHP
+#  Null di PHP
 
 `null` di PHP digunakan untuk merepresentasikan **variabel tanpa nilai** atau **kosong**.  
 Variabel menjadi `null` saat:

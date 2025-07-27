@@ -3,7 +3,7 @@ id: variable
 title: Variabel di PHP
 ---
 
-# 🧾 Variabel di PHP
+#  Variabel di PHP
 
 **Variabel** adalah tempat untuk menyimpan data (nilai) dalam program.  
 Di PHP, variabel digunakan untuk menyimpan teks, angka, array, dan banyak lagi.

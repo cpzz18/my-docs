@@ -3,7 +3,7 @@ id: boolean
 title: Boolean di PHP
 ---
 
-# 🧾 Boolean di PHP
+#  Boolean di PHP
 
 **Boolean** adalah tipe data logika yang hanya memiliki dua nilai:
 

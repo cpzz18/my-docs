@@ -3,7 +3,7 @@ id: string
 title: String di PHP
 ---
 
-# 🧾 String di PHP
+# String di PHP
 
 **String** adalah tipe data di PHP yang digunakan untuk menyimpan teks.  
 Umumnya, kita menggunakan string untuk menampilkan informasi, menyimpan input, atau memproses data berbentuk teks.

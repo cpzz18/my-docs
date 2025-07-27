@@ -27,6 +27,12 @@ const sidebars = {
         'basic-php/tipe-datanumber',
         'basic-php/boolean',
         'basic-php/constant',
+        'basic-php/comparison',
+        'basic-php/assignment',
+        'basic-php/arithmetic',
+        'basic-php/logical',
+        'basic-php/increment-decrement',
+        'basic-php/array-operator',
 
       ],
     },
